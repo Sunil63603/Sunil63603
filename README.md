@@ -1,5 +1,3 @@
-<img width="289" alt="Sunil_black_logo" src="https://github.com/user-attachments/assets/70df3b47-362d-4307-9a5d-4eec9fa0f767">
-
 <h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">Frontend developer from India</h3>
 
